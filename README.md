@@ -2,7 +2,7 @@
 
 ## Ingeniería Civil | Python Developer | Data Analyst
 
-Estudiante de 5° año de Ingeniería Civil en la UTN especializado en desarrollo de software técnico para cálculo, diseño estructural y análisis de datos. Me enfoco en crear herramientas que resuelven problemas de ingeniería mediante programación.
+Estudiante de 5° año de Ingeniería Civil en la UTN actualmente centrado en el desarrollo de software técnico para cálculo, diseño estructural y análisis de datos.
 
 ### 🔧 Stack Técnico
 
@@ -20,8 +20,6 @@ Estudiante de 5° año de Ingeniería Civil en la UTN especializado en desarroll
 
 🏗️ **Método de las Fuerzas**: Software Python para análisis de estructuras hiperestáticas con interfaz gráfica drag-and-drop.
 
-📊 **Automatización de Reportes**: Sistema que reduce procesamiento de datos de 3 días a 1 hora mediante Python y Power BI.
-
 🔧 **Proyectos de Ingeniería**: AutoCAD, Revit, diseño estructural y modelado BIM.
 
 ### 📈 GitHub Stats
@@ -33,6 +31,3 @@ Estudiante de 5° año de Ingeniería Civil en la UTN especializado en desarroll
 - 💼 [LinkedIn](https://linkedin.com/in/federicoarielcasado)
 - 📧 federicoarielcasado@gmail.com
 - 🌐 Portfolio: [WIP]
-
----
-💡 Siempre abierto a colaborar en proyectos de ingeniería + tecnología.
