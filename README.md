@@ -22,10 +22,6 @@ Estudiante de 5° año de Ingeniería Civil en la UTN actualmente centrado en el
 
 🔧 **Proyectos de Ingeniería**: AutoCAD, Revit, diseño estructural y modelado BIM.
 
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=federicoarielcasado&show_icons=true&theme=default)
-
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://linkedin.com/in/federicoarielcasado)
